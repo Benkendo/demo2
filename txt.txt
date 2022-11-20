@@ -1,0 +1,2 @@
+do you want to contribute in django programs
+ open .html file in a browser
